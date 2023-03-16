@@ -28,6 +28,20 @@
 
 * git merge <2nd branche's name> - слияние нескольких веток
 
+### Команды Git из второго семинара
+
+* git branch branch_name - создание новой ветки
+
+* git branch -d branch_name - удалить ветку
+
+* git log —oneline - кратий журнал
+
+* вместо git add <file’s name>, а затем git commit -m “message”
+можно git commit -am “message”
+
+* git checkout -b branch_name - позволяет создать новую ветку и сразу автоматичнски на нее переключается
+
+
 
 # Инструкция для работы с MarkDown
 
